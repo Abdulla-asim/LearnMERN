@@ -1,0 +1,32 @@
+.header {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f8afaf;
+  font-weight: bold;
+}
+
+.mainContent {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.mainContent h1 {
+  color: #555;
+  font-size: 3rem;
+}
+
+.footer {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: black;
+  font-weight: bold;
+}
